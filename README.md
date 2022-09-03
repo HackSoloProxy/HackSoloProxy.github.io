@@ -1,3 +1,3 @@
 # SoloHackProxy
 A school wifi unblocker
-https://hacksoloproxy.github.io/SoloHackProxy/
+https://hacksoloproxy.github.io/SoloHackProxy.github.io/
